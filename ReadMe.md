@@ -1,6 +1,11 @@
-# 🚀 College Entrepreneurship Cell README 🚀
+<div align="center">
+  <h1>Welcome to UCOE | E-Cell 🚀</h1>
+</div>
 
-Welcome to the Entrepreneurship Cell of [Your College Name]! We're thrilled to have you here as a part of our dynamic community of future business leaders, innovators, and entrepreneurs.
+<div align="center">
+  <img src="https://github.com/Universal-College-of-Engineering-E-Cell/ReadMe-File/assets/124857975/a51b5e43-2ef2-4ec4-8074-e93018e7e02d" alt="E-CELL UCOE" width="200px" height="auto">
+</div>
+Welcome to the Entrepreneurship Cell of UCOE We're thrilled to have you here as a part of our dynamic community of future business leaders, innovators, and entrepreneurs.
 
 ## 🌟 About Us
 
@@ -40,9 +45,3 @@ Join us in shaping the future of entrepreneurship at [Your College Name] and let
 If you have any questions or need assistance, don't hesitate to reach out. We're here to support your entrepreneurial journey.
 
 Let's embark on this exciting adventure together! 🌟🚀
-
-## 📃 License
-
-This README and the associated content are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
-© [Your College Name] Entrepreneurship Cell
